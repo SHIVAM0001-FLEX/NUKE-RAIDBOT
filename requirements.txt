@@ -1,0 +1,4 @@
+git+https://github.com/Rapptz/discord.py
+async-timeout==3.0.1
+asyncio==3.4.3
+colorama==0.4.3
