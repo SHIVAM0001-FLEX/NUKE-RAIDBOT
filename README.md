@@ -1,4 +1,4 @@
-This is a nuke bot made by https://youtube.com/snipcola, proudly made in Python.
+proudly made in Python.
 
 To edit the Prefix, Token and more (if more is added, of course), edit config.json and change the file corresponding to, example, the prefix you want or your bots token.
 
